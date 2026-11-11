@@ -590,7 +590,6 @@ Special thanks to:
 
 - [The Movie Database (TMDB)](https://www.themoviedb.org/) for movie metadata and poster API services.
 - [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) for hosting the TMDB 5000 Movie Metadata dataset.
-- [CampusX Movie Recommender](https://github.com/campusx-official/movie-recommender-system-tmdb-dataset) for the original project inspiration.
 - [Scikit-learn](https://scikit-learn.org/) for machine learning tools.
 - [Streamlit](https://streamlit.io/) for web application development and deployment.
 
