@@ -1,1 +1,0 @@
-Download tmdb_5000_movies.csv from https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata and place it in this directory. The credits CSV is not needed. Check the dataset's terms before redistributing.
