@@ -570,20 +570,6 @@ This project demonstrates practical experience with:
 
 ---
 
-## 👨‍💻 Developer
-
-**Ashiwany Kumar**
-
-Computer Science and Engineering (Artificial Intelligence & Machine Learning)
-
-Haldia Institute of Technology
-
-**Interests:** Artificial Intelligence, Machine Learning, Software Development, and Data Science
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ashiwany25-181717?style=flat-square&logo=github)](https://github.com/Ashiwany25)
-
----
-
 ## 🙏 Acknowledgements
 
 Special thanks to:
@@ -598,6 +584,20 @@ Special thanks to:
 Movie poster images belong to their respective rights holders.
 
 ---
+
+<div align="center">
+  
+👨‍💻 Developer
+
+Ashiwany Kumar
+
+Computer Science & Engineering (AI & ML)
+
+Haldia Institute of Technology
+
+GitHub
+
+
 
 <div align="center">
 
