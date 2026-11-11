@@ -585,30 +585,43 @@ Movie poster images belong to their respective rights holders.
 
 ---
 
-<div align="center">
-  
-👨‍💻 Developer
 
-Ashiwany Kumar
+---
 
-Computer Science & Engineering (AI & ML)
+## 👨‍💻 Developer
 
-Haldia Institute of Technology
-
-GitHub
-
-
+---
 
 <div align="center">
 
-### ⭐ Found This Project Useful?
+<h2>Ashiwany Kumar</h2>
 
-If you found this project interesting, consider giving the repository a star!
+<h3>Computer Science & Engineering (AI & ML)</h3>
 
-**[⭐ Star on GitHub](https://github.com/Ashiwany25/Movie-Recommendation-System) | [🚀 Try Live Demo](https://movie-recommendation-system-ashiwany25.streamlit.app)**
+<p>Haldia Institute of Technology</p>
 
-**Built with ❤️ using Python, NLP, Scikit-learn & Streamlit**
+<a href="https://github.com/Ashiwany25">
+  <img src="https://img.shields.io/badge/GitHub-Ashiwany25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
 
-© 2026 Ashiwany Kumar
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>⭐ Support This Project</h2>
+
+<p>If you found this project useful, consider giving it a ⭐ on GitHub.</p>
+
+<p><b>Made with ❤️ using Python, NLP, Machine Learning, and Streamlit.</b></p>
+
+<p>
+  <a href="https://ashiwany-spam-classifier.streamlit.app/">🚀 Live Demo</a>
+  |
+  <a href="https://github.com/Ashiwany25/Email-Spam-Classifier">💻 GitHub Repository</a>
+</p>
 
 </div>
