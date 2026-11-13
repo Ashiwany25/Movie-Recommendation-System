@@ -585,23 +585,16 @@ Movie poster images belong to their respective rights holders.
 
 ---
 
+<div align="center">
+    
 ## 👨‍💻 Developer
 
-<div align="center">
+**Ashiwany Kumar**
 
-<h2>Ashiwany Kumar</h2>
+Computer Science and Engineering (AI & ML)  
+Haldia Institute of Technology
 
-<h3>Computer Science & Engineering (AI & ML)</h3>
-
-<p>Haldia Institute of Technology</p>
-
-<a href="https://github.com/Ashiwany25">
-  <img src="https://img.shields.io/badge/GitHub-Ashiwany25-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-
-</div>
-
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-Ashiwany25-181717?logo=github&logoColor=white)](https://github.com/Ashiwany25)
 
 ---
 
