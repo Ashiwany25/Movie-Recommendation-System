@@ -585,9 +585,6 @@ Movie poster images belong to their respective rights holders.
 
 ---
 
-
----
-
 ## 👨‍💻 Developer
 
 ---
